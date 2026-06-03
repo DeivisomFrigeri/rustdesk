@@ -1,5 +1,5 @@
 [package]
-name = "NovaDesk"
+name = "rustdesk"
 version = "1.4.7"
 authors = ["Deivison Frigeri DEP. TI <suporte.ti1@novalar.com.br>"]
 edition = "2021"
